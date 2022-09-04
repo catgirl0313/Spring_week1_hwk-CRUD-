@@ -1,6 +1,14 @@
 # Spring_week1_hwk
 스프링 입문 주차 개인 과제
 
+Goal:  "스프링 부트로 로그인 기능이 없는 나만의 항해 블로그 백엔드 서버 만들기"
+
+- 학습 과제를 끝내고 나면 할 수 있어요!
+    1. Java를 활용하여 필요한 클래스를 구상할 수 있어요.
+    2. Lombok과 JPA를 이용하여 원하는 데이터베이스를 만들고 활용할 수 있어요.
+    3. Spring Boot를 기반으로 CRUD(Create, Read, Update, Delete) 기능이 포함된 REST API를 만들 수 있어요.
+    4. AWS에 Spring Boot 서비스를 배포할 수 있어요.
+
 - `1) 서비스 완성`,  `2) AWS 배포` 두 가지를 모두 완수해야 합니다.
     
     <aside>
